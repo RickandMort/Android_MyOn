@@ -24,4 +24,12 @@ public class MainActivity extends AppCompatActivity {
                 .build();
 
     }
+
+    /**
+     * 分支增加方法
+     */
+    private void One(){
+        int a = 1;
+        int b = 2;
+    }
 }
