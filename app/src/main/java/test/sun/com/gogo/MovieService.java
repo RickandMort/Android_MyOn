@@ -14,6 +14,14 @@ public interface MovieService {
     @GET("top250")//https://api.douban.com/v2/movie/
     Call getTop250(@Query("start") int start, @Query("count") int count);
 
+    /**
+     * @deprecated  mac_test 提交修改
+     */
+
+//    @FormUrlEncoded
+//    @POST("top250")
+
+
 //    @FormUrlEncoded
 //    @POST("top250")
 //    Call getTop250(@Field("start")int start,@Field("start") int count);
