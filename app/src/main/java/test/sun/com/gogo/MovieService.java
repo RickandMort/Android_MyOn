@@ -20,6 +20,7 @@ public interface MovieService {
 
 //    @FormUrlEncoded
 //    @POST("top250")
+//    @POST("top250")
 
 
 //    @FormUrlEncoded
